@@ -4,6 +4,7 @@ My name is Dorian Antonkiewicz, I'm a Pythoneer 🐍
   
 Despite Python having special place in my heart 💙   
 I don't limit myself to it, I use other languages too:
+- Go
 - Bash
 - C
 - Rust
